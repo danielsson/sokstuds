@@ -59,7 +59,7 @@
 
 <header>
   <h1>Studs 2017</h1>
-  <p class=lead><a href="ansokan">ANSÖK HÄR</a></p>
+  <p class=lead><a href="https://docs.google.com/forms/d/e/1FAIpQLSeOyNUxNEroaap8UvYgjwOexv2bvbdiBaRCkHRH1E4UaEW4FA/viewform?c=0&w=1">ANSÖK HÄR</a></p>
 </header>
 
 
