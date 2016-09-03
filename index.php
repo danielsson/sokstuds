@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>WebGL Globe</title>
+  <title>Sök Studs 2017</title>
   <meta charset="utf-8">
   <style type="text/css">
     html {
