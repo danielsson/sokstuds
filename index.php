@@ -82,7 +82,7 @@
   globe.rotationSpeed.x = 0.002;
 
   var xhr = new XMLHttpRequest();
-  xhr.open('GET', '/globe-search/search.json', true);
+  xhr.open('GET', 'search.json', true);
   xhr.onreadystatechange = function(e) {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
