@@ -58,7 +58,7 @@
 <div id="container"></div>
 
 <header>
-  <h1>Studs 17</h1>
+  <h1>Studs 2017</h1>
   <p class=lead><a href="ansokan">ANSÖK HÄR</a></p>
 </header>
 
